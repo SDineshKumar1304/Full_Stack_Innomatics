@@ -112,7 +112,7 @@ This project is a React-based web application that features a search bar allowin
 
 The app is deployed on **Netlify** and can be accessed via the following link:
 
-[**Country Search Bar - Live Demo**](https://dapper-muffin-036a93.netlify.app)
+[**Country Search Bar - Live Demo**](https://harmonious-hamster-3abf2f.netlify.app/)
 
 To deploy the application:
 
