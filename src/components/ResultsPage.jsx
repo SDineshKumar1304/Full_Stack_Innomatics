@@ -22,8 +22,11 @@ const ResultsPage = () => {
                 <i className={getCountryIcon(country.country)}></i>
               </span>
               <div className="country-info">
-                <span className="country-name">{country.country}</span>
-                <span className="capital-name">{country.capital}</span>
+                <span className="country-name">Country: {country.country}</span>
+                <span className="detail">Capital: {country.capital}</span>
+                <span className="detail">Population: {country.population}</span>
+                <span className="detail">Official Language: {country.official_language}</span>
+                <span className="detail">Currency: {country.currency}</span>
               </div>
             </div>
           ))}
